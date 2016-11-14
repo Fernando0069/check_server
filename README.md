@@ -1,6 +1,6 @@
 # check_server
 
-Main goals:
+Main goals:/n
   Automated security auditing.
   Detect vulnerabilities (comming soon).
 
