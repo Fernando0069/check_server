@@ -3,7 +3,7 @@
 ![Pay](https://img.shields.io/badge/%24-free-%23a10000.svg)
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
-You can be used to install Check_server on systems running :
+You can be used to install "check_server" on systems running :
 `CentOS`, `Debian`, `Fedora`, `OEL`, `openSUSE`, `RHEL`, `Ubuntu`, and others.
 
 Main goals:/n
