@@ -7,6 +7,10 @@
 
 You can be used to install "check_server" on systems running: `CentOS`, `Debian`, `Fedora`, `OEL`, `openSUSE`, `RHEL`, `Ubuntu`, and others.
 
+
+
+
+
 Main goals:
   Automated security auditing.
   Detect vulnerabilities (comming soon).
@@ -21,8 +25,9 @@ The software aims to also assist with:
 License:
   GPLv3
 
+### Audience
 Typical users of the software:
-  System administrators.
-  Auditors.
-  Security officers.
-  Security professionals.
+- System administrators
+- Auditors
+- Security officers
+- Security professionals
