@@ -6,7 +6,7 @@
 # check_server
 > Check Server - Security auditing and hardening tool, for UNIX-based systems.
 
-You can be used to install "check_server" on systems running: `CentOS`, `Debian`, `Fedora`, `OEL`, `openSUSE`, `RHEL`, `Ubuntu`, and others.
+You can be used to install "check_server" on systems running: `Fedora`, `RHEL`, `CentOS`, `Debian`, `Ubuntu`, `SUSE`, `openSUSE`, `AIX`, `Solaris` and others.
 
 ### Main goals:
 - Automated security auditing.
