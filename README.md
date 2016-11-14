@@ -2,6 +2,9 @@
 
 ![Pay](https://img.shields.io/badge/%24-free-%23a10000.svg)
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+[![Build Status](https://travis-ci.org/Fernando0069/check_server.svg?branch=master)](https://www.refsolutions.com)
+
+> Check Server - Security auditing and hardening tool, for UNIX-based systems.
 
 You can be used to install "check_server" on systems running :
 `CentOS`, `Debian`, `Fedora`, `OEL`, `openSUSE`, `RHEL`, `Ubuntu`, and others.
