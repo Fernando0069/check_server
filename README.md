@@ -1,7 +1,9 @@
 [![Pay](https://img.shields.io/badge/%24-free-%23a10000.svg)]
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)]
 [![Build Status](https://travis-ci.org/Fernando0069/check_server.svg?branch=master)](https://www.refsolutions.com)
+[![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://www.google.es)
 [![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg?style=plastic)](https://www.google.es)
+[![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg?style=flat-square)](https://www.google.es)
 
 # check_server
 > Check Server - Security auditing and hardening tool, for UNIX-based systems.
