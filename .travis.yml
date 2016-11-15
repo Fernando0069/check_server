@@ -1,1 +1,11 @@
 language: bash
+before_script:
+    - sh extras/travis-ci/before_script.sh
+script:
+    - cd .. && ls -l 
+notifications:
+  email:
+    recipients:
+      - info@ref-solutions.com
+    on_success: change
+    on_failure: always
