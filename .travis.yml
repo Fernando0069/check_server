@@ -1,6 +1,6 @@
 language: bash
-before_script:
-    - sh extras/travis-ci/before_script.sh
+#before_script:
+#    - sh extras/travis-ci/before_script.sh
 #script:
 #    - cd .. && ls -l 
 #notifications:
